@@ -19,8 +19,8 @@ Creation of a website oriented to the management of bank accounts.
 
 Desktop:
 
-<img src="screenshots/desktop.png" alt="drawing" width="500"/>
-<img src="screenshots/desktop-2.png" alt="drawing" width="500"/>
+<img src="screenshots/desktop.png" alt="desktop" width="500"/>
+<img src="screenshots/desktop-2.png" alt="desktop" width="500"/>
 
 ## My process
 
